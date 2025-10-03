@@ -1,5 +1,10 @@
 ## KerjaYuk! (Expo React Native)
 
+<p>
+  <img src="./assets/home.png" alt="Home" width="200" />
+  <img src="./assets/notification.png" alt="Notification" width="200" />
+</p>
+
 Run the app:
 
 ```bash
@@ -17,10 +22,7 @@ Project uses bottom tabs with a custom center "Check Out" button and a Home scre
 ### Fitur
 
 - **Home**: Ringkasan singkat dan akses cepat ke menu utama.
-- **Attendance (Absensi)**: Catat kehadiran harian (Check-in) dan **Check Out** melalui tombol tengah pada tab bar.
-- **Form**: Kirim data/formulir sederhana sesuai kebutuhan aplikasi.
 - **Notification**: Lihat daftar notifikasi terkait aktivitas aplikasi.
-- **Setting**: Pengaturan dasar aplikasi (preferensi pengguna, dll.).
 
 
 ### Cara Penggunaan
